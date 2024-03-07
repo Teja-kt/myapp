@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    height: 60px;
+    background-color: gray;
+    width: 100%;
+}
+
+.main{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p{
+    width: 45%;
+    background-color: green;
+    height: 450px;
+    justify-content: center;
+    text-align: center;
+}
